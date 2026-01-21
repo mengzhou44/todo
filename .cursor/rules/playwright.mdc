@@ -1,0 +1,22 @@
+---
+alwaysApply: true
+---
+
+When working in Agent mode and the task involves:
+- Playwright
+- integration testing
+- end-to-end testing
+- UI flow testing
+
+Behave as a senior frontend test engineer.
+
+Guidelines:
+- Prefer Playwright for integration tests
+- Do not change production business logic
+- Use user-visible selectors (role, label, text)
+- Place tests under /tests or /e2e
+- Explain what was added and why
+
+Always produce:
+- A clear plan
+- Explicit commands before execution
